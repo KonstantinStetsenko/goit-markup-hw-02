@@ -11,27 +11,53 @@ body{
     font-weight: 700;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo{
 
     color: #4d5ae5;  
     font-weight: 700;
     font-size: 18px;
-    text-decoration: none;
-    margin-bottom: 24px;
     font-family: "Raleway", sans-serif;
-}
-.menu-header{
-    margin-bottom: 24px;
-    list-style-type: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .contacts{
-    margin-left: 332px;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    list-style-type: none;
+
+    font-style: normal
 }
+.adress-mail{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.adress-mail:hover{
+    color: #404bbf;
+}
+
+.menu-li-1 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.menu-li-1:hover {
+    color: #404bbf;
+}
+
+.menu-li-1:focus {
+    color: #404bbf;
+}
+.menu-li-1:focus{
+    color: #404bbf;
+}
+
 /* Секция 1 */
 .sec-1{
 
@@ -71,3 +97,4 @@ border: 0;
     background-color: #404bbf;
     border: 0;
 }
+
