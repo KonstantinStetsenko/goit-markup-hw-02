@@ -145,13 +145,15 @@ font-family: "Roboto", sans-serif;
     text-align: center;
     text-transform: capitalize
 }
+
 .command-list{
-    background-color: #FFFFFF
+    background-color:#FFFFFF ;
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
     text-align: center;
+    color:#2e2f42;
 }
 
 .command-list-p{
