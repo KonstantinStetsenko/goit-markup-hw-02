@@ -88,6 +88,7 @@ margin-top:48px ;
 margin-bottom: 0;
 background-color: #4d5ae5;
 border: 0;
+cursor: pointer;
 }
 .button-sec:hover{
 font-family: "Roboto", sans-serif;
