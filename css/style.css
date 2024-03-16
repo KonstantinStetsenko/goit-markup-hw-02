@@ -169,7 +169,6 @@ font-family: "Roboto", sans-serif;
 background-color: #FFFFFF
 }
 .our-portfolio{
-font-family: var(--font-family);
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -191,4 +190,14 @@ font-weight: 400;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.footer-teem{
+    background-color: #2e2f42;
+}
+.footer-p{
 
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+}
