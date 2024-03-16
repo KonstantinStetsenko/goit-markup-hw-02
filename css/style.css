@@ -134,3 +134,34 @@ font-family: "Roboto", sans-serif;
     color: #434455;
 }
 
+.our-team{
+    background-color: #F4F4FD;
+}
+.section-header{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize
+}
+.command-list{
+    background-color: #FFFFFF
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.command-list-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+.command-li{
+background-color: #FFFFFF
+}
