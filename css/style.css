@@ -39,7 +39,7 @@ body{
     color: #404bbf;
 }
 
-.menu-li-1 {
+.menu-li{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -47,14 +47,14 @@ body{
     color: #2e2f42;
 }
 
-.menu-li-1:hover {
+.menu-li:hover {
     color: #404bbf;
 }
 
 .menu-li-1:focus {
     color: #404bbf;
 }
-.menu-li-1:focus{
+.menu-li:focus{
     color: #404bbf;
 }
 
