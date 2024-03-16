@@ -6,46 +6,27 @@ body{
 }
 /* Хедер */
 .logoweb{
-    display: flex;
+
     color: #2e2f42;
     font-weight: 700;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
 }
 .logo{
-    display: flex;
+
     color: #4d5ae5;  
     font-weight: 700;
     font-size: 18px;
     text-decoration: none;
-    padding: 0;
-    margin-left: 156px;
-    margin-top: 24px;
     margin-bottom: 24px;
     font-family: "Raleway", sans-serif;
 }
 .menu-header{
-    display:flex;
-    gap: 40px;
-    padding: 0;
-    margin-left: 76px;
-    margin-top: 24px;
     margin-bottom: 24px;
     list-style-type: none;
 }
-.style-header{
 
-    display: flex;
-    height: 72px;
-}
-.nav-section{
-    display: inline-flex;
-    
-}
 .contacts{
-    display: flex;
-    gap: 40px;
-    padding: 0;
     margin-left: 332px;
     margin-top: 24px;
     margin-bottom: 24px;
@@ -53,20 +34,15 @@ body{
 }
 /* Секция 1 */
 .sec-1{
-box-sizing: border-box;
-    height: 600px;
-text-align: center;
-padding-top: 150px;
-background-color:#2e2f42 ;
+
+    text-align: center;
+    background-color:#2e2f42 ;
 }
 .title-sec-1{
-
 text-align: center;
 font-size: 56px;
 font-weight: 700;
 color: white;
-width: 496px;
-padding: 0;
 margin:0;
 margin-right: auto;
 margin-left: auto;
@@ -78,30 +54,20 @@ line-height: 150%;
 color: white;
 margin-right: auto;
 margin-left: auto;
-display: block;
 margin-top:48px ;
 margin-bottom: 0;
-width: 169px;
-height: 56px;
-border-radius: 4px;
-padding: 16px 32px;
 background-color: #4d5ae5;
 border: 0;
 }
 .button-sec-1:hover{
     font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        color: white;
+    font-size: 16px;
+    line-height: 150%;
+    color: white;
     margin-right: auto;
-        margin-left: auto;
-        display: block;
-        margin-top: 48px;
-        margin-bottom: 0;
-        width: 169px;
-        height: 56px;
-        border-radius: 4px;
-        padding: 16px 32px;
-        background-color: #404bbf;
-        border: 0;
+    margin-left: auto;
+    margin-top: 48px;
+    margin-bottom: 0;
+    background-color: #404bbf;
+    border: 0;
 }
