@@ -30,12 +30,15 @@ body{
 
     font-style: normal
 }
-.adress-mail{
+.adress-mt{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.adress-mail:hover{
+.adress-mt:hover{
+    color: #404bbf;
+}
+.adress-mt:focus{
     color: #404bbf;
 }
 
